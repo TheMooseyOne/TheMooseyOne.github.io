@@ -1,0 +1,158 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+		<title>MSCG</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">Welcome</a></li>
+							<li><a href="#one">Garden</a></li>
+							<li><a href="#two">Members</a></li>
+							<li><a href="#three">Operations</a></li>
+							<li><a href="#four">Join Us</a></li>
+							<li><a href="#connect">Contact</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1>Merriam Station Community Garden</h1>
+	<p>A program of Union Park District Council in St. Paul, MN</p>
+							<ul class="actions">
+							<li><a href="#one" class="button scrolly">Learn more!</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a href="about.html" class="image"><img src="images/pic04.jpg" alt="" data-position="center center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Garden</h2>
+								<p> Merriam Station Community Garden provides affordable space for residents to connect through sustainable, organic gardening.  We strive to engage neighbors and charitable groups to build a stronger community.  </p>
+									<ul class="actions">
+										<li><a href="about.html" class="button">About Us</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a id="two" href="#" class="image"><img src="images/pic04.jpg" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Members</h2>
+									<p>Stay updated with garden news, member info, and volunteer opportunities!</p>
+									<ul class="actions">
+										<li><a href="members.html" class="button">Member Page</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a id="three" href="#" class="image"><img src="images/pic04.jpg" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Operations</h2>
+									<p>Find FAQ, garden policies, and ongoing projects.</p>
+									<ul class="actions">
+										<li><a href="#" class="button">Operations Page</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+
+						<section>
+							<a id="four" href="#" class="image"><img src="images/pic04.jpg" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Join Us!</h2>
+									<p>We would love to see you.</p>
+									<ul class="actions">
+										<li><a href="#" class="button">Get Involved</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+					</section>
+
+				<!-- Three -->
+					<section id="connect" class="wrapper style1 fade-up">
+						<div class="inner">
+							<div class="split style1">
+								<section>
+							<h2>Connect with MSCG</h2>
+							<p>Merriam Station is always looking to connect with the members of our community! </br>If you have thoughts, comments or concerns, please send us an email.</p>
+								</section>
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Location</h3>
+											<span>Corner of Prior and Gilbert Avenues<br />
+											Saint Paul, Minnesota, 55104<br />
+											USA</span>
+										</li>
+										<li>
+											<h3>Email</h3>
+											<a href="mailto:mscg@unionparkdc.org">mscg@unionparkdc.org</a>
+										</li>
+										<li>
+											<h3>Social</h3>
+											<ul class="icons">
+				<li><a href="https://twitter.com/@merriamstation" class="fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://www.facebook.com/MerriamStationCommunityGarden/" class="fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="https://www.facebook.com/groups/mscgexchange/" class="fa-group"><span class="label">Facebook Group</span></a></li>		
+				<li><a href="https://www.instagram.com/merriamstation/" class="fa-instagram"><span class="label">Instagram</span></a></li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Merriam Station Community Gardens. All rights reserved.</li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
